@@ -1,4 +1,12 @@
 ## A Developer Team!
+     We Are A Developer Team. So You Can Order Blew Projects:
+ 1. WebDesign: Html, CSS, JS
+ 2. jQuery ~ JS
+ 3. VueJS full routing (firebase for backend)
+ 5. DRF & React JS Metrial UI (Ajax Via axios)
+ 6. NUXT JS (Full Stack)
+ 7. Laravel Full (With Nuxt Or VueJS)
+ 8. Ionic AngularJS Android App
 
 ### Our Skills
  1. Python
@@ -16,7 +24,7 @@
  13. bash
  14. Django
  15. NuxtJs
- 16. Flask
+ 16. Laravel
  17. Mysql
  18. SQL/SEQL
  19. SQlite
@@ -30,5 +38,10 @@
  27. Rails
  28. TypeScript
  29. XML
- 30. NB CSS
- 31 GIT, MD, MU
+ 30. NB CSS, GIT, MD, MU
+ 
+     Order A Project? Contact US
+     Email: Softtech285@gmail.com
+# Core Main Developer
+- Ermia Moghadamy
+- Arash Akbari
