@@ -29,5 +29,6 @@
  26. PHP
  27. Rails
  28. TypeScript
- 29. Vuex
+ 29. XML
  30. NB CSS
+ 31 GIT, MD, MU
