@@ -1,13 +1,13 @@
 ## A Developer Team!
      We Are A Developer Team. So You Can Order Blew Projects:
 #
- 1. WebDesign: Html, CSS, JS
- 2. jQuery ~ JS
- 3. VueJS full routing (firebase for backend)
- 5. DRF & React JS Metrial UI (Ajax Via axios)
- 6. NUXT JS (Full Stack)
- 7. Laravel Full (With Nuxt Or VueJS)
- 8. Ionic AngularJS Android App
+1. WebDesign: Html, CSS, JS
+2. jQuery ~ JS
+3. VueJS full routing (firebase for backend)
+5. DRF & React JS Metrial UI (Ajax Via axios)
+6. NUXT JS (Full Stack)
+7. Laravel Full (With Nuxt Or VueJS)
+8. Ionic AngularJS Android App
 
 ### Our Skills
  1. Python
